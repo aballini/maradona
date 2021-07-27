@@ -15,7 +15,7 @@ p{
 }
 
 h3{
-    color: midnightblue;
+    color: rgb(205, 205, 223);
     font-size: 175%;
     line-height: 155%;
     font-weight: 500;
@@ -85,13 +85,9 @@ nav ul li {
 }
 
 
-nav ul li a{
+nav ul li a {
     color: black;
 }
-.current{
-    color: rgb(127, 127, 218);
-}
-
 
 
 footer{
