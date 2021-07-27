@@ -1,9 +1,9 @@
 body{
-    background: rgb(228, 221, 212);
+    background: rgb(21, 22, 58);
 }
 
 p{
-    color: midnightblue;
+    color: rgb(199, 199, 216);
     font-size: 160%;
     line-height: 155%;
     padding: 3%;
@@ -27,7 +27,7 @@ a{
 }
 
 a:hover {
-    color: #c3d7df;
+    color: #fdfdfd;
     }
 
     
@@ -91,11 +91,11 @@ nav ul li a{
     color: black;
 }
 .current{
-    color: blue;
+    color: rgb(127, 127, 218);
 }
 
 footer{
-    background: #b688f1;
+    background: #a3c8f3;
     width: 100%;
     margin: o auto;
     height: 100px;
