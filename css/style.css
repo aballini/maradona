@@ -33,6 +33,12 @@ a{
 a:hover {
     color: #fdfdfd;
     }
+
+#dam {
+        width: 500px; 
+        height: 700px;
+}
+
     
 img {
     display: block;
