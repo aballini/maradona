@@ -1,5 +1,8 @@
 body{
-    background: rgb(21, 22, 58);
+    background: rgb(21, 22, 58); 
+    /*background-image: url(https://www.larskarlsson.com/wp-content/uploads/2020/11/img_8286-1024x533.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;*/
 }
 
 p{
@@ -12,6 +15,7 @@ p{
 }
 
 h3{
+    color: midnightblue;
     font-size: 175%;
     line-height: 155%;
     font-weight: 500;
@@ -29,12 +33,6 @@ a{
 a:hover {
     color: #fdfdfd;
     }
-
-    
-
-
-
-
     
 img {
     display: block;
@@ -94,11 +92,14 @@ nav ul li a{
     color: rgb(127, 127, 218);
 }
 
+
+
 footer{
     background: #a3c8f3;
     width: 100%;
-    margin: o auto;
+    margin: 0 auto;
     height: 100px;
+    
 }
 
 .social{
@@ -124,6 +125,7 @@ border-top: 1px solid #aadcd2;
 text-align: center;
 margin: 0;
 height: 50px;
+
 }
 .footer-second p, .footer-second a{
     text-align: center;
