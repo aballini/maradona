@@ -106,17 +106,19 @@ footer{
 
 .social{
     text-align: center;
+    
 }
 
 .social li {
     display: inline;
+    color: #ee9541;
 }
 
 .social i {
     font-size: 200%;
     margin: 1%;
     padding: 5%;
-    color: #c3d7df;
+    color: #ee9541;
 }
 
 .social :hover{
@@ -136,5 +138,14 @@ height: 50px;
     line-height: 40%;
     font-size: small;
 }
+
+
+
+
+
+
+
+
+
 
 
