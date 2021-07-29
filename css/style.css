@@ -1,8 +1,5 @@
 body{
     background: rgb(21, 22, 58); 
-    /*background-image: url(https://www.larskarlsson.com/wp-content/uploads/2020/11/img_8286-1024x533.jpg);
-    background-size: 100% 100%;
-    background-attachment: fixed;*/
 }
 
 p{
@@ -34,12 +31,7 @@ a:hover {
     color: #fdfdfd;
     }
 
-#dam {
-        width: 500px; 
-        height: 700px;
-}
-
-    
+/* imagen del logo */    
 img {
     display: block;
     margin: auto;
@@ -47,6 +39,29 @@ img {
     height: auto;
     width: auto;
     margin-bottom: 4px;
+} 
+/* Imagen principal del index */
+#dam {
+ 
+    height: auto;
+    width: auto;
+
+/* Imagen de los escudos en Trayectoria */
+}
+#tra {
+ 
+    height: auto;
+    width: auto;
+}
+
+/* Imagen de las camisetas en Titulos */
+#titcam{
+    height: 110px;
+    width: 120px;
+}
+
+#tr {
+    color: #e6f8e6;
 }
 
 #wrapper {
